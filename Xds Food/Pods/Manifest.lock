@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Kingfisher (7.3.0)
+  - SkeletonView (1.29.2)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 7.0)
+  - SkeletonView
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - SkeletonView
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Kingfisher: cdb1189a9223b1bc028816bd47c8b8101a58831c
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: d17727fcc7f5162cdc60b35a5d03d28c6e017d24
+
+COCOAPODS: 1.11.2
